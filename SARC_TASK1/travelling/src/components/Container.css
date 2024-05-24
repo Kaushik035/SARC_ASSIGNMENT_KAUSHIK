@@ -1,0 +1,505 @@
+.bhelughat{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgbhelughat{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./waterFall/belughat.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nbhelughat{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+    
+}
+
+.nbhelughat:hover{
+  scale: 1.01;
+  cursor: pointer;
+
+}
+
+
+
+.panimur{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgpanimur{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./waterFall/kakochang.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.npanimur{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.npanimur:hover{
+    scale: 1.01;
+    cursor: pointer;
+  
+  }
+
+
+
+.mainapi{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgmainapi{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./waterFall/mainapi.jpeg");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nmainapi{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nmainapi:hover{
+    scale: 1.01;
+    cursor: pointer;
+  
+  }
+
+
+
+.kaziranga{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgkaziranga{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./nationalPark/kaziranga.avif");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nkaziranga{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+.nkaziranga:hover{
+    scale: 1.01;
+    cursor: pointer;
+  
+  }
+
+
+
+
+.manas{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgmanas{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./nationalPark/manas.webp");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nmanas{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nmanas:hover{
+    scale: 1.01;
+    cursor: pointer;
+  
+  }
+
+
+
+.nameri{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgnameri{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./nationalPark/nameri.webp");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nnameri{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+.nnameri:hover{
+    scale: 1.01;
+    cursor: pointer;
+  
+  }
+
+
+
+.kamakhya{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgkamakhya{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./temple/kamakhyaa.webp");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nkamakhya{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nkamakhya:hover{
+    scale: 1.01;
+    cursor: pointer;
+  
+  }
+
+
+
+.basishta{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgbasishta{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./temple/basishtaa.jpeg");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+
+.nbasishta{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+}
+.nbasishta:hover{
+    scale: 1.01;
+    cursor: pointer;
+  
+  }
+
+
+
+.navagraha{
+    /* background-color: rgb(219, 182, 254); */
+    width: 30%;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.imgnavagraha{
+    width: 80% ;
+    height: 70%;
+    background-image: url("./temple/navagrhaa.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    margin-left: 35px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+    
+}
+
+.nnavagraha{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10pc);
+
+    height: 50px;
+    width: 80%;
+
+    margin-left: 35px;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid white;
+
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+    color: orange;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    letter-spacing: 2px;
+    box-shadow: 0 7px 10px rgb(27, 26, 26);
+
+
+
+}
+.nnavagraha:hover{
+    scale: 1.01;
+    cursor: pointer;
+  
+  }
+

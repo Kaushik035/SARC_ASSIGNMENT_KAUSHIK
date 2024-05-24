@@ -1,0 +1,17 @@
+.header3{
+    /* background-color: rgba(237, 237, 176, 0.499); */
+    height: 22vh;
+    width: 100vw;
+    display:flex;
+    justify-content: center;
+    align-items:last baseline;
+}
+
+.page3{
+    /* background-color: rgba(218, 250, 187, 0.496); */
+    height: 78vh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    {% load static %}
+
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+  </head>
+  <body>
+    <div id="main">
+      <div id="drop">
+        <form action="/home/" method="POST">
+          {% csrf_token %}
+          <label id ="label" for="dropdown">DESTINATION:</label>
+          <select id="dropdown" name="dropdown">
+            <option value="Kamakhya" name="Kamakhya">Kamakhya Temple</option>
+            <option value="Navagraha" name = "Navagraha">Navagraha Temple</option>
+            <option value="Basistha" name = "Basistha">Basistha Temple</option>
+          </select>
+          <button id="button" type="submit">EXPLORE</button>
+        </form>
+      </div>
+      <div id="content">
+        <div id="heading">
+
+          
+
+          
+
+            <p>{{place}}</p>
+
+            
+
+
+        </div>
+        <div id="description">
+
+          <div><p>
+            {{about}}
+          </p></div>
+          
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

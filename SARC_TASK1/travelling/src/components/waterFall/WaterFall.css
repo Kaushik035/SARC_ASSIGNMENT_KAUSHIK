@@ -1,0 +1,27 @@
+.header1{
+    /* background-color: rgba(246, 194, 248, 0.57); */
+    height: 22vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items:last baseline;
+}
+
+.page1{
+    /* background-color: rgba(250, 187, 207, 0.551); */
+    height: 78vh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+}
+
+/* .waterT{
+
+    color:#2b1d42;
+    font-size: 60px;
+    font-family:sans-serif;
+    font-weight: 600;
+text-shadow: rgb(12, 10, 0) 1px 0 5px;
+
+} */
